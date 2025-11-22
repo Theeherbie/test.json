@@ -1,0 +1,5 @@
+{
+  "urls": [],
+  "validatorUrl": null,
+  "dom_id": "<img src='x' onerror=\"console.log('GITHUB SAFE PAYLOAD TRIGGERED')\">"
+}
